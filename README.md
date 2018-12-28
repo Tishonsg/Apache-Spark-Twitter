@@ -1,2 +1,2 @@
 # Apache-Spark-Twitter
-Sentiment Analysis &amp; Statistical Analysis on Twitter Stream 
+Sentiment Analysis &amp; Statistical Analysis on Twitter Stream python application
